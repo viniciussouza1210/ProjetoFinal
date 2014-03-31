@@ -1,0 +1,51 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1151" measuredH="657" mockupW="858" mockupH="652">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="293" y="5" w="858" h="652" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10066329</color>
+        <text>AEMPP-AVC%0Ahttp%3A//www.aempp-avc.com.br</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Title" x="309" y="89" w="-1" h="-1" measuredW="686" measuredH="35" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>32</size>
+        <text>FUNCTIONAL%20AMBULATION%20CATEGORY%20%28FAC%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::TextInput" x="342" y="139" w="-1" h="-1" measuredW="79" measuredH="26" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="310" y="142" w="-1" h="-1" measuredW="17" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>ID%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Label" x="436" y="142" w="-1" h="-1" measuredW="32" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>DATA%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::TextInput" x="479" y="135" w="-1" h="-1" measuredW="71" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>__/__/____</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Button" x="733" y="578" w="-1" h="-1" measuredW="80" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>AVAN%C7AR</text>
+      </controlProperties>
+    </control>
+    <control controlID="90" controlTypeID="com.balsamiq.mockups::Button" x="647" y="578" w="-1" h="-1" measuredW="69" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>VOLTAR</text>
+      </controlProperties>
+    </control>
+    <control controlID="221" controlTypeID="com.balsamiq.mockups::RadioButtonGroup" x="309" y="190" w="-1" h="-1" measuredW="714" measuredH="215" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%28%20%29%20FAC%20%280%29%3A%20Paciente%20que%20n%E3o%20%E9%20capaz%20de%20andar%20de%20forma%20alguma%20ou%20necessita%20de%20auxilio%20de%202%20terapeutas.%0A%28%20%29%20FAC%20%281%29%3A%20Pacientes%20que%20precisam%20de%20contato%20manual%20continuo%2C%20para%20apoiar%20o%20peso%20do%20corpo%2C%20%0Aassim%20como%20manter%20o%20equil%EDbrio%20ou%20auxiliar%20na%20coordena%E7%E3o.%20%0A%28o%29%20FAC%20%282%29%3A%20Pacientes%20%20que%20necessitam%20de%20toque%20leve%2C%20intermitente%20ou%20continuo%2C%20para%20auxiliar%20no%20equil%EDbrio%20ou%20coordena%E7%E3o%0A%28%20%29%20FAC%20%283%29%3A%20Pacientes%20que%20s%E3o%20capazes%20de%20andar%20em%20superf%EDcie%20niveladas%2C%20sem%20contato%20manual%20de%20outra%20pessoa%2C%20%0Amas%20necessita%20de%20supervis%E3o%20de%20uma%20pessoa%20ou%20para%20seguran%E7a%20ou%20para%20orienta%E7%E3o%20verbal.%0A%28%20%29%20FAC%20%284%29%3A%20Paciente%20que%20pode%20caminhar%20independentemente%20em%20superf%EDcie%20nivelada%2C%20%0Amas%20requer%20supervis%E3o%20para%20superf%EDcies%20irregulares%20%28escadas%2C%20rampas%29.%0A%28%20%29%20FAC%20%285%29%3A%20Pacientes%20capazes%20de%20andar%20independentemente%20em%20qualquer%20lugar%2C%20incluindo%20escadas.%20%0A%20</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

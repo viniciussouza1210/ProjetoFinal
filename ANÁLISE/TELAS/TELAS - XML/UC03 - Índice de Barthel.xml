@@ -1,0 +1,148 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1151" measuredH="657" mockupW="858" mockupH="652">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="293" y="5" w="858" h="652" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10066329</color>
+        <text>AEMPP-AVC%0Ahttp%3A//www.aempp-avc.com.br</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Title" x="309" y="89" w="-1" h="-1" measuredW="309" measuredH="35" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>32</size>
+        <text>%CDNDICE%20DE%20BARTHEL</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::TextInput" x="342" y="139" w="-1" h="-1" measuredW="79" measuredH="26" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="310" y="142" w="-1" h="-1" measuredW="17" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>ID%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Label" x="436" y="142" w="-1" h="-1" measuredW="32" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>DATA%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::TextInput" x="479" y="135" w="-1" h="-1" measuredW="71" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>__/__/____</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Button" x="733" y="578" w="-1" h="-1" measuredW="80" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>AVAN%C7AR</text>
+      </controlProperties>
+    </control>
+    <control controlID="90" controlTypeID="com.balsamiq.mockups::Button" x="647" y="578" w="-1" h="-1" measuredW="69" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>VOLTAR</text>
+      </controlProperties>
+    </control>
+    <control controlID="222" controlTypeID="com.balsamiq.mockups::Label" x="309" y="180" w="-1" h="-1" measuredW="92" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>ALIMENTA%C7%C3O</text>
+      </controlProperties>
+    </control>
+    <control controlID="223" controlTypeID="com.balsamiq.mockups::Label" x="309" y="201" w="-1" h="-1" measuredW="44" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>BANHO</text>
+      </controlProperties>
+    </control>
+    <control controlID="224" controlTypeID="com.balsamiq.mockups::Label" x="309" y="222" w="-1" h="-1" measuredW="70" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>VESTIR-SE</text>
+      </controlProperties>
+    </control>
+    <control controlID="225" controlTypeID="com.balsamiq.mockups::Label" x="309" y="243" w="-1" h="-1" measuredW="72" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>INTESTINO</text>
+      </controlProperties>
+    </control>
+    <control controlID="226" controlTypeID="com.balsamiq.mockups::Label" x="309" y="264" w="-1" h="-1" measuredW="126" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>SISTEMA%20URIN%C1RIO</text>
+      </controlProperties>
+    </control>
+    <control controlID="227" controlTypeID="com.balsamiq.mockups::Label" x="309" y="285" w="-1" h="-1" measuredW="102" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>USO%20DO%20TOILET</text>
+      </controlProperties>
+    </control>
+    <control controlID="228" controlTypeID="com.balsamiq.mockups::Label" x="309" y="306" w="-1" h="-1" measuredW="306" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>TRANSFER%CANCIA%20%28Da%20cama%20para%20CR%20e%20vice-versa%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="229" controlTypeID="com.balsamiq.mockups::Label" x="309" y="327" w="-1" h="-1" measuredW="224" measuredH="21" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>MOBILIDADE%20%28Em%20superf%EDcies%20planas%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="230" controlTypeID="com.balsamiq.mockups::Label" x="309" y="348" w="-1" h="-1" measuredW="60" measuredH="21" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>ESCADAS</text>
+      </controlProperties>
+    </control>
+    <control controlID="231" controlTypeID="com.balsamiq.mockups::ComboBox" x="676" y="178" w="-1" h="-1" measuredW="147" measuredH="24" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>0%20%3D%20INCAPACITADO</text>
+      </controlProperties>
+    </control>
+    <control controlID="232" controlTypeID="com.balsamiq.mockups::ComboBox" x="676" y="199" w="-1" h="-1" measuredW="141" measuredH="24" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>0%20%3D%20DEPENDENTE</text>
+      </controlProperties>
+    </control>
+    <control controlID="233" controlTypeID="com.balsamiq.mockups::ComboBox" x="676" y="220" w="-1" h="-1" measuredW="332" measuredH="24" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>0%20%3D%20PRECISA%20DE%20AJUDA%20COM%20HIGIENE%20PESSOAL</text>
+      </controlProperties>
+    </control>
+    <control controlID="234" controlTypeID="com.balsamiq.mockups::ComboBox" x="676" y="241" w="-1" h="-1" measuredW="116" measuredH="24" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>DEPENDENTE</text>
+      </controlProperties>
+    </control>
+    <control controlID="235" controlTypeID="com.balsamiq.mockups::ComboBox" x="676" y="262" w="-1" h="-1" measuredW="433" measuredH="24" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>0%20%3D%20INCONTINENTE%2C%20OU%20CATETERIZADO%20E%20INCAPAZ%20DE%20MANEJO</text>
+      </controlProperties>
+    </control>
+    <control controlID="236" controlTypeID="com.balsamiq.mockups::ComboBox" x="676" y="283" w="147" h="-1" measuredW="141" measuredH="24" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>0%20%3D%20DEPENDENTE</text>
+      </controlProperties>
+    </control>
+    <control controlID="237" controlTypeID="com.balsamiq.mockups::ComboBox" x="676" y="304" w="-1" h="-1" measuredW="400" measuredH="24" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>0%20%3D%20INCAPACITADO%2C%20SEM%20EQUILIBRIO%20PARA%20FICAR%20SENTADO</text>
+      </controlProperties>
+    </control>
+    <control controlID="238" controlTypeID="com.balsamiq.mockups::ComboBox" x="676" y="325" w="-1" h="-1" measuredW="170" measuredH="24" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>0%20%3D%20IM%D3VEL%20OU%20%3C%2050m</text>
+      </controlProperties>
+    </control>
+    <control controlID="239" controlTypeID="com.balsamiq.mockups::ComboBox" x="676" y="348" w="-1" h="-1" measuredW="147" measuredH="62" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>0%20%3D%20INCAPACITADO%0A5%20%3D%20PRECISA%20DE%20AJUDA%20%28VERBAL%2C%20F%CDSICA%20OU%20SER%20CARREGADO%0A10%20%3D%20INDEPENDENTE</text>
+      </controlProperties>
+    </control>
+    <control controlID="240" controlTypeID="com.balsamiq.mockups::SubTitle" x="505" y="484" w="-1" h="-1" measuredW="233" measuredH="27" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>PONTUA%C7%C3O%20TOTAL%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="241" controlTypeID="com.balsamiq.mockups::TextInput" x="747" y="478" w="-1" h="-1" measuredW="29" measuredH="38" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <state>disabled</state>
+        <text>0</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
