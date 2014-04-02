@@ -1,0 +1,474 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1181" measuredH="722" mockupW="888" mockupH="717">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="293" y="5" w="888" h="717" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10066329</color>
+        <text>AEMPP-AVC%0Ahttp%3A//www.aempp-avc.com.br</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Title" x="309" y="89" w="-1" h="-1" measuredW="625" measuredH="35" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>32</size>
+        <text>AVALIA%C7%C3O%20DE%20SENSIBILIDADE%20PLANTAR</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::TextInput" x="342" y="139" w="-1" h="-1" measuredW="79" measuredH="26" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="310" y="142" w="-1" h="-1" measuredW="17" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>ID%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Label" x="436" y="142" w="-1" h="-1" measuredW="32" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>DATA%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::TextInput" x="483" y="139" w="-1" h="-1" measuredW="71" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>__/__/____</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Button" x="710" y="658" w="-1" h="-1" measuredW="80" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>AVAN%C7AR</text>
+      </controlProperties>
+    </control>
+    <control controlID="90" controlTypeID="com.balsamiq.mockups::Button" x="624" y="658" w="-1" h="-1" measuredW="69" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>VOLTAR</text>
+      </controlProperties>
+    </control>
+    <control controlID="349" controlTypeID="com.balsamiq.mockups::Label" x="340" y="230" w="-1" h="-1" measuredW="112" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>MONOFILAMENTO</text>
+      </controlProperties>
+    </control>
+    <control controlID="351" controlTypeID="com.balsamiq.mockups::Label" x="350" y="250" w="-1" h="-1" measuredW="92" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20Verde%20%280%2C05gf%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="352" controlTypeID="com.balsamiq.mockups::Label" x="357" y="270" w="-1" h="-1" measuredW="77" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Azul%20%20%280%2C2gf%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="353" controlTypeID="com.balsamiq.mockups::Label" x="352" y="290" w="-1" h="-1" measuredW="87" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Violeta%20%282%2C0gf%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="354" controlTypeID="com.balsamiq.mockups::Label" x="345" y="310" w="-1" h="-1" measuredW="101" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Vermelho%20%284%2C0gf%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="355" controlTypeID="com.balsamiq.mockups::Label" x="348" y="330" w="-1" h="-1" measuredW="96" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Laranja%20%2810%2C0gf%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="356" controlTypeID="com.balsamiq.mockups::Label" x="345" y="350" w="-1" h="-1" measuredW="102" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Magenta%20%28300gf%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="357" controlTypeID="com.balsamiq.mockups::Label" x="309" y="370" w="-1" h="-1" measuredW="173" measuredH="21" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Nenhuma%20resposta%20afirmativa</text>
+      </controlProperties>
+    </control>
+    <control controlID="371" controlTypeID="com.balsamiq.mockups::RadioButtonGroup" x="309" y="180" w="-1" h="-1" measuredW="137" measuredH="39" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%28o%29%20P%C9%20N%C3O%20PAR%C9TICO%0A%28%20%29%20P%C9%20PAR%C9TICO</text>
+      </controlProperties>
+    </control>
+    <control controlID="372" controlTypeID="__group__" x="502" y="249" w="365" h="22" measuredW="365" measuredH="22" zOrder="16" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::CheckBox" x="0" y="0" w="-1" h="-1" measuredW="26" measuredH="22" zOrder="0" locked="false" isInGroup="372">
+          <controlProperties>
+            <text>1</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::CheckBox" x="31" y="0" w="-1" h="-1" measuredW="29" measuredH="22" zOrder="1" locked="false" isInGroup="372">
+          <controlProperties>
+            <text>2</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::CheckBox" x="72" y="0" w="-1" h="-1" measuredW="28" measuredH="22" zOrder="2" locked="false" isInGroup="372">
+          <controlProperties>
+            <text>3</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::CheckBox" x="111" y="0" w="-1" h="-1" measuredW="29" measuredH="22" zOrder="3" locked="false" isInGroup="372">
+          <controlProperties>
+            <text>4</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::CheckBox" x="148" y="0" w="-1" h="-1" measuredW="28" measuredH="22" zOrder="4" locked="false" isInGroup="372">
+          <controlProperties>
+            <text>5</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::CheckBox" x="183" y="0" w="-1" h="-1" measuredW="29" measuredH="22" zOrder="5" locked="false" isInGroup="372">
+          <controlProperties>
+            <text>6</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::CheckBox" x="227" y="0" w="-1" h="-1" measuredW="28" measuredH="22" zOrder="6" locked="false" isInGroup="372">
+          <controlProperties>
+            <text>7</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::CheckBox" x="263" y="0" w="-1" h="-1" measuredW="28" measuredH="22" zOrder="7" locked="false" isInGroup="372">
+          <controlProperties>
+            <text>8</text>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::CheckBox" x="298" y="0" w="33" h="22" measuredW="28" measuredH="22" zOrder="8" locked="false" isInGroup="372">
+          <controlProperties>
+            <text>9</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::CheckBox" x="331" y="0" w="-1" h="-1" measuredW="34" measuredH="22" zOrder="9" locked="false" isInGroup="372">
+          <controlProperties>
+            <text>10</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="373" controlTypeID="__group__" x="502" y="269" w="365" h="22" measuredW="365" measuredH="22" zOrder="18" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::CheckBox" x="0" y="0" w="-1" h="-1" measuredW="26" measuredH="22" zOrder="0" locked="false" isInGroup="373">
+          <controlProperties>
+            <text>1</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::CheckBox" x="31" y="0" w="-1" h="-1" measuredW="29" measuredH="22" zOrder="1" locked="false" isInGroup="373">
+          <controlProperties>
+            <text>2</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::CheckBox" x="72" y="0" w="-1" h="-1" measuredW="28" measuredH="22" zOrder="2" locked="false" isInGroup="373">
+          <controlProperties>
+            <text>3</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::CheckBox" x="111" y="0" w="-1" h="-1" measuredW="29" measuredH="22" zOrder="3" locked="false" isInGroup="373">
+          <controlProperties>
+            <text>4</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::CheckBox" x="148" y="0" w="-1" h="-1" measuredW="28" measuredH="22" zOrder="4" locked="false" isInGroup="373">
+          <controlProperties>
+            <text>5</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::CheckBox" x="183" y="0" w="-1" h="-1" measuredW="29" measuredH="22" zOrder="5" locked="false" isInGroup="373">
+          <controlProperties>
+            <text>6</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::CheckBox" x="227" y="0" w="-1" h="-1" measuredW="28" measuredH="22" zOrder="6" locked="false" isInGroup="373">
+          <controlProperties>
+            <text>7</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::CheckBox" x="263" y="0" w="-1" h="-1" measuredW="28" measuredH="22" zOrder="7" locked="false" isInGroup="373">
+          <controlProperties>
+            <text>8</text>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::CheckBox" x="298" y="0" w="33" h="22" measuredW="28" measuredH="22" zOrder="8" locked="false" isInGroup="373">
+          <controlProperties>
+            <text>9</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::CheckBox" x="331" y="0" w="-1" h="-1" measuredW="34" measuredH="22" zOrder="9" locked="false" isInGroup="373">
+          <controlProperties>
+            <text>10</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="374" controlTypeID="__group__" x="502" y="289" w="365" h="22" measuredW="365" measuredH="22" zOrder="19" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::CheckBox" x="0" y="0" w="-1" h="-1" measuredW="26" measuredH="22" zOrder="0" locked="false" isInGroup="374">
+          <controlProperties>
+            <text>1</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::CheckBox" x="31" y="0" w="-1" h="-1" measuredW="29" measuredH="22" zOrder="1" locked="false" isInGroup="374">
+          <controlProperties>
+            <text>2</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::CheckBox" x="72" y="0" w="-1" h="-1" measuredW="28" measuredH="22" zOrder="2" locked="false" isInGroup="374">
+          <controlProperties>
+            <text>3</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::CheckBox" x="111" y="0" w="-1" h="-1" measuredW="29" measuredH="22" zOrder="3" locked="false" isInGroup="374">
+          <controlProperties>
+            <text>4</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::CheckBox" x="148" y="0" w="-1" h="-1" measuredW="28" measuredH="22" zOrder="4" locked="false" isInGroup="374">
+          <controlProperties>
+            <text>5</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::CheckBox" x="183" y="0" w="-1" h="-1" measuredW="29" measuredH="22" zOrder="5" locked="false" isInGroup="374">
+          <controlProperties>
+            <text>6</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::CheckBox" x="227" y="0" w="-1" h="-1" measuredW="28" measuredH="22" zOrder="6" locked="false" isInGroup="374">
+          <controlProperties>
+            <text>7</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::CheckBox" x="263" y="0" w="-1" h="-1" measuredW="28" measuredH="22" zOrder="7" locked="false" isInGroup="374">
+          <controlProperties>
+            <text>8</text>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::CheckBox" x="298" y="0" w="33" h="22" measuredW="28" measuredH="22" zOrder="8" locked="false" isInGroup="374">
+          <controlProperties>
+            <text>9</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::CheckBox" x="331" y="0" w="-1" h="-1" measuredW="34" measuredH="22" zOrder="9" locked="false" isInGroup="374">
+          <controlProperties>
+            <text>10</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="375" controlTypeID="__group__" x="502" y="309" w="365" h="22" measuredW="365" measuredH="22" zOrder="20" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::CheckBox" x="0" y="0" w="-1" h="-1" measuredW="26" measuredH="22" zOrder="0" locked="false" isInGroup="375">
+          <controlProperties>
+            <text>1</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::CheckBox" x="31" y="0" w="-1" h="-1" measuredW="29" measuredH="22" zOrder="1" locked="false" isInGroup="375">
+          <controlProperties>
+            <text>2</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::CheckBox" x="72" y="0" w="-1" h="-1" measuredW="28" measuredH="22" zOrder="2" locked="false" isInGroup="375">
+          <controlProperties>
+            <text>3</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::CheckBox" x="111" y="0" w="-1" h="-1" measuredW="29" measuredH="22" zOrder="3" locked="false" isInGroup="375">
+          <controlProperties>
+            <text>4</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::CheckBox" x="148" y="0" w="-1" h="-1" measuredW="28" measuredH="22" zOrder="4" locked="false" isInGroup="375">
+          <controlProperties>
+            <text>5</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::CheckBox" x="183" y="0" w="-1" h="-1" measuredW="29" measuredH="22" zOrder="5" locked="false" isInGroup="375">
+          <controlProperties>
+            <text>6</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::CheckBox" x="227" y="0" w="-1" h="-1" measuredW="28" measuredH="22" zOrder="6" locked="false" isInGroup="375">
+          <controlProperties>
+            <text>7</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::CheckBox" x="263" y="0" w="-1" h="-1" measuredW="28" measuredH="22" zOrder="7" locked="false" isInGroup="375">
+          <controlProperties>
+            <text>8</text>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::CheckBox" x="298" y="0" w="33" h="22" measuredW="28" measuredH="22" zOrder="8" locked="false" isInGroup="375">
+          <controlProperties>
+            <text>9</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::CheckBox" x="331" y="0" w="-1" h="-1" measuredW="34" measuredH="22" zOrder="9" locked="false" isInGroup="375">
+          <controlProperties>
+            <text>10</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="376" controlTypeID="__group__" x="502" y="329" w="365" h="22" measuredW="365" measuredH="22" zOrder="21" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::CheckBox" x="0" y="0" w="-1" h="-1" measuredW="26" measuredH="22" zOrder="0" locked="false" isInGroup="376">
+          <controlProperties>
+            <text>1</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::CheckBox" x="31" y="0" w="-1" h="-1" measuredW="29" measuredH="22" zOrder="1" locked="false" isInGroup="376">
+          <controlProperties>
+            <text>2</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::CheckBox" x="72" y="0" w="-1" h="-1" measuredW="28" measuredH="22" zOrder="2" locked="false" isInGroup="376">
+          <controlProperties>
+            <text>3</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::CheckBox" x="111" y="0" w="-1" h="-1" measuredW="29" measuredH="22" zOrder="3" locked="false" isInGroup="376">
+          <controlProperties>
+            <text>4</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::CheckBox" x="148" y="0" w="-1" h="-1" measuredW="28" measuredH="22" zOrder="4" locked="false" isInGroup="376">
+          <controlProperties>
+            <text>5</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::CheckBox" x="183" y="0" w="-1" h="-1" measuredW="29" measuredH="22" zOrder="5" locked="false" isInGroup="376">
+          <controlProperties>
+            <text>6</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::CheckBox" x="227" y="0" w="-1" h="-1" measuredW="28" measuredH="22" zOrder="6" locked="false" isInGroup="376">
+          <controlProperties>
+            <text>7</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::CheckBox" x="263" y="0" w="-1" h="-1" measuredW="28" measuredH="22" zOrder="7" locked="false" isInGroup="376">
+          <controlProperties>
+            <text>8</text>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::CheckBox" x="298" y="0" w="33" h="22" measuredW="28" measuredH="22" zOrder="8" locked="false" isInGroup="376">
+          <controlProperties>
+            <text>9</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::CheckBox" x="331" y="0" w="-1" h="-1" measuredW="34" measuredH="22" zOrder="9" locked="false" isInGroup="376">
+          <controlProperties>
+            <text>10</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="377" controlTypeID="__group__" x="502" y="349" w="365" h="22" measuredW="365" measuredH="22" zOrder="22" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::CheckBox" x="0" y="0" w="-1" h="-1" measuredW="26" measuredH="22" zOrder="0" locked="false" isInGroup="377">
+          <controlProperties>
+            <text>1</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::CheckBox" x="31" y="0" w="-1" h="-1" measuredW="29" measuredH="22" zOrder="1" locked="false" isInGroup="377">
+          <controlProperties>
+            <text>2</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::CheckBox" x="72" y="0" w="-1" h="-1" measuredW="28" measuredH="22" zOrder="2" locked="false" isInGroup="377">
+          <controlProperties>
+            <text>3</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::CheckBox" x="111" y="0" w="-1" h="-1" measuredW="29" measuredH="22" zOrder="3" locked="false" isInGroup="377">
+          <controlProperties>
+            <text>4</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::CheckBox" x="148" y="0" w="-1" h="-1" measuredW="28" measuredH="22" zOrder="4" locked="false" isInGroup="377">
+          <controlProperties>
+            <text>5</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::CheckBox" x="183" y="0" w="-1" h="-1" measuredW="29" measuredH="22" zOrder="5" locked="false" isInGroup="377">
+          <controlProperties>
+            <text>6</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::CheckBox" x="227" y="0" w="-1" h="-1" measuredW="28" measuredH="22" zOrder="6" locked="false" isInGroup="377">
+          <controlProperties>
+            <text>7</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::CheckBox" x="263" y="0" w="-1" h="-1" measuredW="28" measuredH="22" zOrder="7" locked="false" isInGroup="377">
+          <controlProperties>
+            <text>8</text>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::CheckBox" x="298" y="0" w="33" h="22" measuredW="28" measuredH="22" zOrder="8" locked="false" isInGroup="377">
+          <controlProperties>
+            <text>9</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::CheckBox" x="331" y="0" w="-1" h="-1" measuredW="34" measuredH="22" zOrder="9" locked="false" isInGroup="377">
+          <controlProperties>
+            <text>10</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="378" controlTypeID="__group__" x="502" y="369" w="365" h="22" measuredW="365" measuredH="22" zOrder="23" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::CheckBox" x="0" y="0" w="-1" h="-1" measuredW="26" measuredH="22" zOrder="0" locked="false" isInGroup="378">
+          <controlProperties>
+            <text>1</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::CheckBox" x="31" y="0" w="-1" h="-1" measuredW="29" measuredH="22" zOrder="1" locked="false" isInGroup="378">
+          <controlProperties>
+            <text>2</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::CheckBox" x="72" y="0" w="-1" h="-1" measuredW="28" measuredH="22" zOrder="2" locked="false" isInGroup="378">
+          <controlProperties>
+            <text>3</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::CheckBox" x="111" y="0" w="-1" h="-1" measuredW="29" measuredH="22" zOrder="3" locked="false" isInGroup="378">
+          <controlProperties>
+            <text>4</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::CheckBox" x="148" y="0" w="-1" h="-1" measuredW="28" measuredH="22" zOrder="4" locked="false" isInGroup="378">
+          <controlProperties>
+            <text>5</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::CheckBox" x="183" y="0" w="-1" h="-1" measuredW="29" measuredH="22" zOrder="5" locked="false" isInGroup="378">
+          <controlProperties>
+            <text>6</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::CheckBox" x="227" y="0" w="-1" h="-1" measuredW="28" measuredH="22" zOrder="6" locked="false" isInGroup="378">
+          <controlProperties>
+            <text>7</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::CheckBox" x="263" y="0" w="-1" h="-1" measuredW="28" measuredH="22" zOrder="7" locked="false" isInGroup="378">
+          <controlProperties>
+            <text>8</text>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::CheckBox" x="298" y="0" w="33" h="22" measuredW="28" measuredH="22" zOrder="8" locked="false" isInGroup="378">
+          <controlProperties>
+            <text>9</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::CheckBox" x="331" y="0" w="-1" h="-1" measuredW="34" measuredH="22" zOrder="9" locked="false" isInGroup="378">
+          <controlProperties>
+            <text>10</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="379" controlTypeID="com.balsamiq.mockups::Button" x="638" y="423" w="-1" h="-1" measuredW="225" measuredH="27" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>GRAVAR%20PARA%20P%C9%20SELECIONADO</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

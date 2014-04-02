@@ -1,0 +1,242 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1181" measuredH="722" mockupW="888" mockupH="717">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="293" y="5" w="888" h="717" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10066329</color>
+        <text>AEMPP-AVC%0Ahttp%3A//www.aempp-avc.com.br</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Title" x="309" y="89" w="-1" h="-1" measuredW="224" measuredH="35" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>32</size>
+        <text>EXAME%20F%CDSICO</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::TextInput" x="342" y="139" w="-1" h="-1" measuredW="79" measuredH="26" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="310" y="142" w="-1" h="-1" measuredW="17" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>ID%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Label" x="436" y="142" w="-1" h="-1" measuredW="32" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>DATA%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::TextInput" x="483" y="139" w="-1" h="-1" measuredW="71" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>__/__/____</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Button" x="710" y="658" w="-1" h="-1" measuredW="80" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>AVAN%C7AR</text>
+      </controlProperties>
+    </control>
+    <control controlID="90" controlTypeID="com.balsamiq.mockups::Button" x="624" y="658" w="-1" h="-1" measuredW="69" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>VOLTAR</text>
+      </controlProperties>
+    </control>
+    <control controlID="299" controlTypeID="com.balsamiq.mockups::SubTitle" x="309" y="180" w="-1" h="-1" measuredW="279" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>REFLEXOS%20PROFUNDOS</text>
+      </controlProperties>
+    </control>
+    <control controlID="300" controlTypeID="com.balsamiq.mockups::Label" x="468" y="207" w="-1" h="-1" measuredW="55" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>PATELAR</text>
+      </controlProperties>
+    </control>
+    <control controlID="301" controlTypeID="com.balsamiq.mockups::Label" x="580" y="207" w="-1" h="-1" measuredW="57" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>AQUILEU</text>
+      </controlProperties>
+    </control>
+    <control controlID="302" controlTypeID="com.balsamiq.mockups::Label" x="309" y="228" w="-1" h="-1" measuredW="92" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>LADO%20DIREITO</text>
+      </controlProperties>
+    </control>
+    <control controlID="303" controlTypeID="com.balsamiq.mockups::Label" x="309" y="248" w="-1" h="-1" measuredW="112" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>LADO%20ESQUERDO</text>
+      </controlProperties>
+    </control>
+    <control controlID="304" controlTypeID="com.balsamiq.mockups::ComboBox" x="449" y="226" w="-1" h="-1" measuredW="79" measuredH="78" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ausente%0ADiminuido%0ANormal%0AAumentado</text>
+      </controlProperties>
+    </control>
+    <control controlID="305" controlTypeID="com.balsamiq.mockups::ComboBox" x="569" y="228" w="-1" h="-1" measuredW="97" measuredH="24" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Aumentado</text>
+      </controlProperties>
+    </control>
+    <control controlID="306" controlTypeID="com.balsamiq.mockups::ComboBox" x="569" y="252" w="-1" h="-1" measuredW="79" measuredH="78" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ausente%0ADiminuido%0ANormal%0AAumentado</text>
+      </controlProperties>
+    </control>
+    <control controlID="307" controlTypeID="com.balsamiq.mockups::SubTitle" x="309" y="345" w="-1" h="-1" measuredW="299" measuredH="27" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>REFLEXOS%20SUPERFICIAIS</text>
+      </controlProperties>
+    </control>
+    <control controlID="308" controlTypeID="com.balsamiq.mockups::Label" x="309" y="409" w="-1" h="-1" measuredW="92" measuredH="21" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>LADO%20DIREITO</text>
+      </controlProperties>
+    </control>
+    <control controlID="309" controlTypeID="com.balsamiq.mockups::Label" x="309" y="429" w="-1" h="-1" measuredW="112" measuredH="21" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>LADO%20ESQUERDO</text>
+      </controlProperties>
+    </control>
+    <control controlID="310" controlTypeID="com.balsamiq.mockups::Label" x="468" y="388" w="-1" h="-1" measuredW="126" measuredH="21" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>CUT%C2NEO-PLANTAR</text>
+      </controlProperties>
+    </control>
+    <control controlID="311" controlTypeID="com.balsamiq.mockups::Label" x="615" y="387" w="-1" h="-1" measuredW="124" measuredH="21" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>SINAL%20DE%20HOFFMAN</text>
+      </controlProperties>
+    </control>
+    <control controlID="312" controlTypeID="com.balsamiq.mockups::ComboBox" x="472" y="409" w="-1" h="-1" measuredW="69" measuredH="46" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Flex%E3o%0AExtens%E3o</text>
+      </controlProperties>
+    </control>
+    <control controlID="313" controlTypeID="com.balsamiq.mockups::ComboBox" x="643" y="408" w="-1" h="-1" measuredW="79" measuredH="24" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ausente</text>
+      </controlProperties>
+    </control>
+    <control controlID="314" controlTypeID="com.balsamiq.mockups::ComboBox" x="643" y="432" w="-1" h="-1" measuredW="79" measuredH="46" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ausente%0APresente</text>
+      </controlProperties>
+    </control>
+    <control controlID="315" controlTypeID="com.balsamiq.mockups::SubTitle" x="309" y="494" w="-1" h="-1" measuredW="105" measuredH="27" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>CL%D4NUS%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="317" controlTypeID="com.balsamiq.mockups::RadioButtonGroup" x="436" y="488" w="-1" h="-1" measuredW="44" measuredH="39" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%28o%29%20Sim%0A%28%20%29%20N%E3o</text>
+      </controlProperties>
+    </control>
+    <control controlID="318" controlTypeID="com.balsamiq.mockups::Label" x="494" y="497" w="-1" h="-1" measuredW="35" measuredH="21" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Local%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="319" controlTypeID="com.balsamiq.mockups::TextInput" x="540" y="494" w="201" h="-1" measuredW="79" measuredH="26" zOrder="27" locked="false" isInGroup="-1"/>
+    <control controlID="320" controlTypeID="com.balsamiq.mockups::StickyNote" x="533" y="535" w="109" h="135" measuredW="109" measuredH="123" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Campo%20local%20ser%E1%20desativado%20caso%20paciente%20n%E3o%20possua%20cl%F4nus</text>
+      </controlProperties>
+    </control>
+    <control controlID="321" controlTypeID="com.balsamiq.mockups::SubTitle" x="820" y="180" w="-1" h="-1" measuredW="284" measuredH="27" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>FOR%C7A%20MUSCULAR%20MMII</text>
+      </controlProperties>
+    </control>
+    <control controlID="332" controlTypeID="__group__" x="911" y="207" w="243" h="21" measuredW="243" measuredH="21" zOrder="37" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="92" measuredH="21" zOrder="0" locked="false" isInGroup="332">
+          <controlProperties>
+            <text>LADO%20DIREITO</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="131" y="0" w="-1" h="-1" measuredW="112" measuredH="21" zOrder="1" locked="false" isInGroup="332">
+          <controlProperties>
+            <text>LADO%20ESQUERDO</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="334" controlTypeID="com.balsamiq.mockups::ComboBox" x="938" y="228" w="-1" h="-1" measuredW="36" measuredH="93" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1%0A2%0A3%0A4%0A5</text>
+      </controlProperties>
+    </control>
+    <control controlID="335" controlTypeID="com.balsamiq.mockups::Label" x="763" y="228" w="-1" h="-1" measuredW="113" measuredH="21" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Flexores%20de%20quadril</text>
+      </controlProperties>
+    </control>
+    <control controlID="336" controlTypeID="com.balsamiq.mockups::Label" x="763" y="248" w="-1" h="-1" measuredW="130" measuredH="21" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Extensores%20de%20quadril</text>
+      </controlProperties>
+    </control>
+    <control controlID="337" controlTypeID="com.balsamiq.mockups::Label" x="763" y="268" w="-1" h="-1" measuredW="124" measuredH="21" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Extensores%20de%20joelho</text>
+      </controlProperties>
+    </control>
+    <control controlID="338" controlTypeID="com.balsamiq.mockups::Label" x="763" y="288" w="-1" h="-1" measuredW="107" measuredH="21" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Flexores%20de%20joelho</text>
+      </controlProperties>
+    </control>
+    <control controlID="339" controlTypeID="com.balsamiq.mockups::Label" x="763" y="308" w="-1" h="-1" measuredW="77" measuredH="21" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Dorsiflexores</text>
+      </controlProperties>
+    </control>
+    <control controlID="340" controlTypeID="com.balsamiq.mockups::Label" x="763" y="328" w="-1" h="-1" measuredW="133" measuredH="21" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Extensores%20dos%20dedos</text>
+      </controlProperties>
+    </control>
+    <control controlID="341" controlTypeID="com.balsamiq.mockups::Label" x="763" y="348" w="-1" h="-1" measuredW="80" measuredH="21" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Plantiflexores</text>
+      </controlProperties>
+    </control>
+    <control controlID="342" controlTypeID="com.balsamiq.mockups::ComboBox" x="1083" y="228" w="-1" h="-1" measuredW="36" measuredH="93" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1%0A2%0A3%0A4%0A5</text>
+      </controlProperties>
+    </control>
+    <control controlID="343" controlTypeID="com.balsamiq.mockups::ComboBox" x="1083" y="321" w="-1" h="-1" measuredW="38" measuredH="24" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>5</text>
+      </controlProperties>
+    </control>
+    <control controlID="344" controlTypeID="com.balsamiq.mockups::ComboBox" x="1083" y="345" w="-1" h="-1" measuredW="39" measuredH="24" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>4</text>
+      </controlProperties>
+    </control>
+    <control controlID="345" controlTypeID="com.balsamiq.mockups::ComboBox" x="938" y="321" w="-1" h="-1" measuredW="38" measuredH="24" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>3</text>
+      </controlProperties>
+    </control>
+    <control controlID="346" controlTypeID="com.balsamiq.mockups::ComboBox" x="938" y="345" w="-1" h="-1" measuredW="39" measuredH="24" zOrder="43" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>2</text>
+      </controlProperties>
+    </control>
+    <control controlID="347" controlTypeID="com.balsamiq.mockups::FieldSet" x="800" y="389" w="319" h="220" measuredW="200" measuredH="170" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Escala%20da%20for%E7a%20muscular</text>
+      </controlProperties>
+    </control>
+    <control controlID="348" controlTypeID="com.balsamiq.mockups::TextArea" x="820" y="415" w="284" h="169" measuredW="200" measuredH="140" zOrder="45" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>16777215</borderColor>
+        <text>Grau%20de%20For%E7a%0A0%20%3D%20Sem%20contra%E7%E3o%20%28paralisia%20total%29%0A1%20%3D%20Contra%E7%E3o%20muscular%20vis%EDvel%20ou%20palp%E1vel%20sem%20movimenta%E7%E3o%0A2%20%3D%20Movimento%20ativo%20com%20elimina%E7%E3o%20da%20gravidade%0A3%20%3D%20Movimento%20ativo%20contra%20a%20gravidade%0A4%20%3D%20Movimento%20ativo%20contra%20resist%EAncia%20moderada%0A5%20%3D%20For%E7a%20normal</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
