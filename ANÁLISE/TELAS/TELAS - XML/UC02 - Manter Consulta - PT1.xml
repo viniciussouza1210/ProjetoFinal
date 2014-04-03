@@ -1,0 +1,63 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1181" measuredH="722" mockupW="888" mockupH="717">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="293" y="5" w="888" h="717" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10066329</color>
+        <text>AEMPP-AVC%0Ahttp%3A//www.aempp-avc.com.br</text>
+      </controlProperties>
+    </control>
+    <control controlID="380" controlTypeID="com.balsamiq.mockups::Title" x="308" y="99" w="-1" h="-1" measuredW="373" measuredH="43" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>AGENDA%20CONSULTA</text>
+      </controlProperties>
+    </control>
+    <control controlID="382" controlTypeID="com.balsamiq.mockups::TabBar" x="308" y="148" w="620" h="315" measuredW="335" measuredH="100" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>0</selectedIndex>
+        <text>NOVO%20PACIENTE%2C%20PACIENTE%20EXISTENTE</text>
+      </controlProperties>
+    </control>
+    <control controlID="383" controlTypeID="com.balsamiq.mockups::Label" x="396" y="190" w="-1" h="-1" measuredW="41" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>NOME%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="384" controlTypeID="com.balsamiq.mockups::Label" x="321" y="210" w="-1" h="-1" measuredW="116" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>FISIOTERAPEUTA%3A%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="385" controlTypeID="com.balsamiq.mockups::DateChooser" x="437" y="228" w="-1" h="-1" measuredW="90" measuredH="25" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="386" controlTypeID="com.balsamiq.mockups::Label" x="401" y="230" w="-1" h="-1" measuredW="36" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>DATA%3A%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="387" controlTypeID="com.balsamiq.mockups::Label" x="611" y="230" w="-1" h="-1" measuredW="43" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>HORA%3A%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="388" controlTypeID="com.balsamiq.mockups::ComboBox" x="437" y="208" w="-1" h="-1" measuredW="95" measuredH="24" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Neymar%20Jr.</text>
+      </controlProperties>
+    </control>
+    <control controlID="389" controlTypeID="com.balsamiq.mockups::TextInput" x="437" y="182" w="159" h="-1" measuredW="79" measuredH="26" zOrder="9" locked="false" isInGroup="-1"/>
+    <control controlID="390" controlTypeID="com.balsamiq.mockups::ComboBox" x="654" y="228" w="-1" h="-1" measuredW="64" measuredH="156" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>09am%0A10am%0A11am%0A13pm%0A14pm%0A15pm%0A16pm%0A17pm%0A18pm</text>
+      </controlProperties>
+    </control>
+    <control controlID="391" controlTypeID="com.balsamiq.mockups::Button" x="611" y="399" w="-1" h="-1" measuredW="71" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>GRAVAR</text>
+      </controlProperties>
+    </control>
+    <control controlID="392" controlTypeID="com.balsamiq.mockups::Button" x="504" y="399" w="-1" h="-1" measuredW="92" measuredH="27" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>CANCELAR</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
