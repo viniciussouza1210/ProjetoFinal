@@ -39,17 +39,26 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="13" controlTypeID="com.balsamiq.mockups::Button" x="647" y="168" w="-1" h="-1" measuredW="134" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Button" x="647" y="168" w="-1" h="-1" measuredW="107" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
-        <icon>SearchIcon%7Csmall</icon>
         <text>NOVO%20GRUPO</text>
       </controlProperties>
     </control>
-    <control controlID="14" controlTypeID="com.balsamiq.mockups::Button" x="600" y="228" w="-1" h="-1" measuredW="204" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Button" x="647" y="228" w="-1" h="-1" measuredW="204" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
         <text>GERAR%20RELAT%D3RIO%20GR%C1FICO</text>
       </controlProperties>
     </control>
     <control controlID="16" controlTypeID="com.balsamiq.mockups::LineChart" x="609" y="270" w="-1" h="-1" measuredW="187" measuredH="175" zOrder="11" locked="false" isInGroup="-1"/>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Button" x="540" y="228" w="-1" h="-1" measuredW="92" measuredH="27" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>CANCELAR</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Button" x="776" y="168" w="-1" h="-1" measuredW="117" measuredH="27" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>EDITAR%20GRUPO</text>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>
